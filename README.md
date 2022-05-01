@@ -23,8 +23,7 @@ Implement the search algorithm by passing any two nodes/places to find a possibl
 Display the route sequence. 
 
 ## ROUTE MAP
-#### Include your own map
-#### Example map
+#### Map:
 ![ alt text for screen readers](./images/Graph.jpeg "Map around my house")
 ![ alt text for screen readers](./images/Map.jpeg "Map around my house")
 
